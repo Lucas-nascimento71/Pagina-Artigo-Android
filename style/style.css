@@ -12,6 +12,11 @@
     --fonte-destaque: 'Bebas Neue';
 }
 
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 
 body {
     background-color: #c5ebd6;
